@@ -1,0 +1,36 @@
+{
+
+  "name": "fullstack_mobile",
+
+  "version": "1.0.0",
+
+  "scripts": {
+
+    "main": "node  ./main.js",
+
+    "ts": "tsx  ./example.ts"
+
+  },
+
+  "dependencies": {
+
+    "prompt": "^1.3.0"
+
+  },
+
+  "devDependencies": {
+
+    "@types/node": "^24.9.2",
+
+    "@types/prompt": "^1.1.9",
+
+
+
+    "tsx": "^4.20.6",
+
+    "typescript": "^5.9.3"
+
+  }
+
+}
+
